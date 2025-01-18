@@ -5,13 +5,14 @@
 
 body{
 
-    background-color: lightcyan;
+    background-color: rgba(34, 48, 48, 0.663);
 }
 
 main{
-    background-color: rgba(91, 71, 71, 0.527);
+    background-color: white;
     margin: auto;
     width: 500px;
     padding: 10px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.622);
+
 }
